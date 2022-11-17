@@ -1,6 +1,6 @@
 import {movies} from "../components/BooksData";
 import React from "react";
-import Image from "next/image";
+
 import Link from "next/link";
 import {BiArrowBack} from "react-icons/bi"
 import Footer from "../components/Footer";
@@ -24,7 +24,7 @@ function Books() {
     {movies.map(function(movie) {
         return <div className='sm:mt-2 flex space-x-4 border-b-2 pb-3 mb-4 pl-2 pt-1 lg:pl-32 '>
         
-        <img src={ prefix + movie.picture} alt="bookss" className="w-200 h-55 object-contain"/>
+        <img src={ prefix + movie.picture} alt="bookss" className="w-38 h-48 object-contain"/>
         <div className="text-white">
             <p1 className=" font-bold"> {movie.name}</p1><br/>
             <p6 className="mb-"><span className='text-sm'>{movie.date}</span></p6><br/>

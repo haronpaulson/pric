@@ -13,7 +13,7 @@ function About() {
         <div >
             <div className='mb-5  shadow-md  shadow-orange-200 p-4 w-52 ml-[20%] md:ml-[38%] rounded-full'>
                 <Image src="author-web/author1.jpeg" alt='auth' width="180" height="55" objectFit='contain' className=" rounded-full hidden" />
-                <img src= "/author-web/author1.jpg" alt="autho" className='w-180 h-56 rounded-full object-contain block'/>
+                <img src= "/author-web/author1.jpg" alt="autho" className='w-40  rounded-full object-contain '/>
             
                
             </div>

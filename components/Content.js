@@ -44,7 +44,7 @@ function Content() {
             </div>
             
             <div className=' ml-0  w-[140px]  h-[200px] text-center  space-y-3 rounded-lg  font-bold lg:ml-6'>
-                <Image src="/author-web/author1.jpeg" alt="author" width="130" height="80" className=' rounded-full '/>
+                <Image src="/author-web/author1.jpeg" alt="author" width="130" height="80" className=' rounded-full hidden '/>
                 <img src="/author-web/author1.jpeg" className='w-28 object-contain' alt='authh' /> 
                 <h1 className=' font-extrabold text-white'>JYOTINDRA NATH PRASAD's <br/>Collection</h1>
                 <p1><span className='text-sm text-orange-300'>12  books</span></p1>

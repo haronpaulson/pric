@@ -27,6 +27,7 @@ function BooksList() {
       
       {movies.map(function(movie) {
         return <div className='mt-8 flex space-x-4 border-b-2 pb-3 '>
+      
         <Image src={prefix + movie.picture} alt="bookss" width="170" height="70" objectFit='contain' />
         <div>
             <p1 > {movie.name}</p1><br/>

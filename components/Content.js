@@ -1,5 +1,5 @@
 import React from 'react';
-
+import Image from 'next/image';
 import {AiOutlineSearch, AiOutlineRight} from "react-icons/ai";
 import {BsHandThumbsUpFill} from "react-icons/bs";
 import Link from "next/link";
@@ -44,7 +44,7 @@ function Content() {
             </div>
             
             <div className=' ml-0  w-[140px]  h-[200px] text-center  space-y-3 rounded-lg  font-bold lg:ml-6'>
-                <img src="/author-web/author1.jpeg" alt="author" className='w-130 h-80 rounded-full '/>
+                <Image src="/author-web/author1.jpeg" alt="author" width="130" height="80" className=' rounded-full '/>
                 <h1 className=' font-extrabold text-white'>JYOTINDRA NATH PRASAD's <br/>Collection</h1>
                 <p1><span className='text-sm text-orange-300'>12  books</span></p1>
                 

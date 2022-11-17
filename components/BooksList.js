@@ -1,7 +1,8 @@
 import React from 'react'
 import Image from 'next/image';
 import {movies} from "./BooksData";
-import Link from 'next/link';
+
+
 
 
 function BooksList() {
@@ -20,12 +21,13 @@ function BooksList() {
       <div>
         <h1 className='ml-8 pt-4 text-xl font-semibold text-yellow-600'>The Author's Collections</h1>
       </div>
+    
       
       
       
       {movies.map(function(movie) {
         return <div className='mt-8 flex space-x-4 border-b-2 pb-3 '>
-        <Image src={prefix + movie.picture} alt="bookss" width="170" height="55" objectFit='contain' />
+        <Image src={prefix + movie.picture} alt="bookss" width="170" height="70" objectFit='contain' />
         <div>
             <p1 > {movie.name}</p1><br/>
             <p6 className="mb-"><span className='text-sm'>{movie.date}</span></p6><br/>

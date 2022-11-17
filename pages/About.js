@@ -12,7 +12,7 @@ function About() {
            <button type="text" className="border-4 border-cyan-400  text-lg justify-center absolute  right-3 w-32 bottom-32 items-center flex  h-12 rounded-lg bg-cyan-300 font-bold text-black font-serif shadow-lg shadow-cyan-300 lg:top-8 md:text-2xl md:right-5 md:rounded-sm hover:bg-cyan-800 "> <BiArrowBack className='mr-1  '/>Home</button></Link>
         <div >
             <div className='mb-5  shadow-md  shadow-orange-200 p-4 w-52 ml-[20%] md:ml-[38%] rounded-full'>
-                <Image src="/author1.jpeg" alt='auth' width="180" height="55" objectFit="contain" className='rounded-full' />
+                <Image src="author-web/author1.jpeg" alt='auth' width="180" height="55" objectFit='contain' className=" rounded-full" />
             
                
             </div>

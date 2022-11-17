@@ -7,7 +7,7 @@ import React from "react";
         picture: "file:///C:/Users/haron/Desktop/next-with-tailwind-wallet-app/public/book1.jpeg",
         author: "JYOTINDRA NATH PRASAD",
         webpage: "https://www.amazon.in/gp/product/B0BLD369G7/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0",
-        captionn: "This book has been written in the shape of a diary. The diary was written from the year 2013 to 2017.After relinquishing the office in 2013, the author is trying to adjust with a life of leizure.He is no more bustling with life. After being adept to hurly -burly of life, he has reached a halt in life.He  ",
+        captionn: "Thi book has been written in the shape of a diary. The diary was written from the year 2013 to 2017.After relinquishing the office in 2013, the author is trying to adjust with a life of leizure.He is no more bustling with life. After being adept to hurly -burly of life, he has reached a halt in life.He  ",
         caption: "welcome friends",
         end: "300",
     },
@@ -70,7 +70,7 @@ import React from "react";
     {
         name: "SEARCH WITHIN  ",
         date: "4 Mar, 2022",
-        picture: "/book9.jpeg",
+        picture: "book9.jpeg",
         author: "JYOTINDRA NATH PRASAD",
         webpage: "https://www.amazon.in/gp/product/B09TY54M3T/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i8",
         captionn: "I am present with second part of my autobiography entitled ‘Search Within’. The first was ‘Yadon Ke Satrein’. The third volume was entitled ‘My Date with Editors’. While first volume revolved round my childhood to adolescence the third centred on my profession of journalism.The second pa  ",

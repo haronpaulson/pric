@@ -23,15 +23,15 @@ function BooksList() {
       
       {movies.map(function(movie) {
         return <div className='mt-8 flex space-x-4 border-b-2 pb-3 '>
-        <Image src={movie.picture} alt="bookss" width="170" height="55" objectFit='contain'/>
+        <Image src={movie.picture} alt="bookss" width="170" height="55" objectFit='contain' priority/>
         <div>
             <p1 > {movie.name}</p1><br/>
             <p6 className="mb-"><span className='text-sm'>{movie.date}</span></p6><br/>
-            <a href= {movie.webpage}>
+            <a href= {movie.webpage} target= "_blank">
             <button type='text' className='mt-10 ml-3 border-2 p-1 w-20 rounded-full font-semibold border-white text-black bg-white'>Buy Now</button>
             </a>
         </div>
-        <div className='hidden lg:block pt-4 text-yellow-100 pl-5 pr-2 '><p1 className="mt-10">{movie.captionn}<span className=' text-white '><a href={movie.webpage}>[See more ]</a></span></p1>  
+        <div className='hidden lg:block pt-4 text-yellow-100 pl-5 pr-2 '><p1 className="mt-10">{movie.captionn}<span className=' text-white '><a href={movie.webpage} target="_blank">[See more ]</a></span></p1>  
         
         </div> 
            

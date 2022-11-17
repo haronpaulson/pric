@@ -14,7 +14,7 @@ import React from "react";
     {
         name: "DIARY:SAGA UNTOLD ",
         date: "25 Oct, 2022",
-        picture: "/book2.jpeg",
+        picture: "public/book2.jpeg",
         author: "JYOTINDRA NATH PRASAD",
         webpage: "https://www.amazon.in/gp/product/B0BKKWCJW3/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i1",
         captionn: "This diary book registers my transfer to Chhattisgarh in the fag end of career as reporter. Little surprise that I had to pay for my conscientious rebellion at the ‘Hindustan Times’, which culminated in exit from it. My aggressiveness continued in Chhattisgarh for some time and later I softened to adjust",

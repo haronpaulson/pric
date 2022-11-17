@@ -3,6 +3,8 @@ module.exports = {
   reactStrictMode: true,
   images: {
     loader: "akamai",
-    path: "",
-  }
-}
+    path: ""
+  },
+  basePath: "/author-web",
+  assetPrefix: "/author-web",
+};

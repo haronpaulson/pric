@@ -14,7 +14,7 @@ import React from "react";
     {
         name: "DIARY:SAGA UNTOLD ",
         date: "25 Oct, 2022",
-        picture: "public/book2.jpeg",
+        picture: "/book2.jpeg",
         author: "JYOTINDRA NATH PRASAD",
         webpage: "https://www.amazon.in/gp/product/B0BKKWCJW3/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i1",
         captionn: "This diary book registers my transfer to Chhattisgarh in the fag end of career as reporter. Little surprise that I had to pay for my conscientious rebellion at the ‘Hindustan Times’, which culminated in exit from it. My aggressiveness continued in Chhattisgarh for some time and later I softened to adjust",
@@ -70,7 +70,7 @@ import React from "react";
     {
         name: "SEARCH WITHIN  ",
         date: "4 Mar, 2022",
-        picture: "book9.jpeg",
+        picture: "/book9.jpeg",
         author: "JYOTINDRA NATH PRASAD",
         webpage: "https://www.amazon.in/gp/product/B09TY54M3T/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i8",
         captionn: "I am present with second part of my autobiography entitled ‘Search Within’. The first was ‘Yadon Ke Satrein’. The third volume was entitled ‘My Date with Editors’. While first volume revolved round my childhood to adolescence the third centred on my profession of journalism.The second pa  ",

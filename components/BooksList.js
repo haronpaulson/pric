@@ -13,6 +13,8 @@ function BooksList() {
     }
     return str;
   }
+
+  const prefix = "/author-web";
   return (
     <div className=' space-x-12  '>
       <div>
@@ -23,7 +25,7 @@ function BooksList() {
       
       {movies.map(function(movie) {
         return <div className='mt-8 flex space-x-4 border-b-2 pb-3 '>
-        <Image src={movie.picture} alt="bookss" width="170" height="55" objectFit='contain' priority/>
+        <Image src={prefix + movie.picture} alt="bookss" width="170" height="55" objectFit='contain' />
         <div>
             <p1 > {movie.name}</p1><br/>
             <p6 className="mb-"><span className='text-sm'>{movie.date}</span></p6><br/>

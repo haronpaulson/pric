@@ -8,6 +8,7 @@ import Footer from "../components/Footer";
 
 
 function Books() {
+    const prefix = "/author-web";
 
     return <div className="bg-black m-6 mt-12 rounded-lg pb-10 ">  
         <Link href="/">
@@ -23,11 +24,11 @@ function Books() {
     {movies.map(function(movie) {
         return <div className='sm:mt-2 flex space-x-4 border-b-2 pb-3 mb-4 pl-2 pt-1 lg:pl-32 '>
         
-        <Image src={movie.picture} alt="bookss" width="200" height="55" objectFit='contain'/>
+        <img src={ prefix + movie.picture} alt="bookss" className="w-200 h-55 object-contain"/>
         <div className="text-white">
             <p1 className=" font-bold"> {movie.name}</p1><br/>
             <p6 className="mb-"><span className='text-sm'>{movie.date}</span></p6><br/>
-            <a href= {movie.webpage}>
+            <a href= {movie.webpage} target="_blank">
             <button type='text' className='mt-10 ml-3 border-2 p-1 w-20 rounded-full font-semibold border-white text-black bg-white'>Buy Now</button>
             </a>
         </div>

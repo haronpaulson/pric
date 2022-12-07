@@ -8,7 +8,6 @@ import React from "react";
         author: "JYOTINDRA NATH PRASAD",
         webpage: "https://www.amazon.in/gp/product/B0BLD369G7/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0",
         captionn: "This book has been written in the shape of a diary. The diary was written from the year 2013 to 2017.After relinquishing the office in 2013, the author is trying to adjust with a life of leizure.He is no more bustling with life. After being adept to hurly -burly of life, he has reached a halt in life.He  ",
-        end: "300",
     },
     {
         name: "DIARY:SAGA UNTOLD ",
@@ -106,7 +105,6 @@ import React from "react";
         author: "JYOTINDRA NATH PRASAD",
         webpage: "https://www.amazon.in/gp/product/B07VR1Y515/ref=dbs_a_def_rwt_hsch_vapi_taft_p2_i3",
         captionn: "The book is a collection of 21 satirical essays. Most of it was written in my youth when I was working for a local newspaper The Searchlight (now defunct).Time has changed since then but the customs,        circumstances and problems remain the same. Qualitative life has taken a low ebb and there is degeneration",
-        end: "300",
     },
     {
         name: "Fir Subah Hogi (Hindi Edition) ",
@@ -115,7 +113,6 @@ import React from "react";
         author: "JYOTINDRA NATH PRASAD",
         webpage: "https://www.amazon.in/gp/product/B08346RMM9/ref=dbs_a_def_rwt_hsch_vapi_taft_p2_i2",
         captionn: "This book is entitled ‘Phir Subah Hogi’. It is a collection of seven stories. As the title signifies it ensures the readers that good days would dawn on them. It shows hopes amidst despair. The book encapsulates varied emotions from negative to positive and lifts the subdued mood. When there is deterioration   ",
-        end: "300",
     },
     {
         name: "Prasang (Hindi Edition) ",
@@ -124,7 +121,6 @@ import React from "react";
         author: "JYOTINDRA NATH PRASAD",
         webpage: "https://www.amazon.in/gp/product/B08GZH2NHK/ref=dbs_a_def_rwt_hsch_vapi_taft_p2_i1",
         captionn: "My book enlightens you with new insight into the problems plaguing India and the world and tries to resolve them. It is a collection of 42 articles dwelling on different aspects of life. From politics to social and to economy I have discussed the genesis of the issues threadbare and have chalked out programmes ",
-        end: "300",
     },
     {
         name: "Raag-Viraag (Hindi Edition) ",
@@ -133,16 +129,15 @@ import React from "react";
         author: "JYOTINDRA NATH PRASAD",
         webpage: "https://www.amazon.in/gp/product/B08H19FG3N/ref=dbs_a_def_rwt_hsch_vapi_taft_p2_i0",
         captionn: "My poetry book Raag-Viraag at once strikes a rapport with readers who identify themselves with all emotions pain-pleasure, hopes-despair and joy-sorrow, which result from ups and downs of life. The title of the book itself signifies attachment and detachment. When one is hilarious with life it is attachment ",
-        end: "300",
     },
     {
-        name: "My Date With Editors (Hindi Edition) ",
-        date: "2 Nov, 2022",
-        picture: "/book1.jpeg",
+        name: "My Date With Editors  ",
+        date: "4 June 2019",
+        picture: "/book17.jpeg",
         author: "JYOTINDRA NATH PRASAD",
         webpage: "https://www.amazon.in/gp/product/B0BLD369G7/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0",
-        captionn: "This book has been written in the shape of a diary. The diary was written from the year 2013 to 2017.After relinquishing the office in 2013, the author is trying to adjust with a life of leizure.He is no more bustling with life. After being adept to hurly -burly of life, he has reached a halt in life.He  ",
-        end: "300",
+        captionn: "The book is my professional autobiography. It unfolds a saga of 40 years of my journey in journalism in India covering Delhi, Bihar and Chattisgarh states. Mine has been chequered career. No godfather,no caretaker.With self help I proceeded in life.At times I have faced the worst and the best also. It is a  ",
+  
     },
 ]
 

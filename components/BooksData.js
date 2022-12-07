@@ -135,7 +135,7 @@ import React from "react";
         date: "4 June 2019",
         picture: "/book17.jpeg",
         author: "JYOTINDRA NATH PRASAD",
-        webpage: "https://www.amazon.in/gp/product/B0BLD369G7/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0",
+        webpage: "https://www.amazon.in/Date-Editors-Jyotindra-Nath-Prasad-ebook/dp/B07SPLB7RG/ref=sr_1_1?crid=HV71FGQ3EDA7&keywords=My+date+with+editors&qid=1670408246&s=digital-text&sprefix=my+date+with+editor%2Cdigital-text%2C275&sr=1-1",
         captionn: "The book is my professional autobiography. It unfolds a saga of 40 years of my journey in journalism in India covering Delhi, Bihar and Chattisgarh states. Mine has been chequered career. No godfather,no caretaker.With self help I proceeded in life.At times I have faced the worst and the best also. It is a  ",
   
     },

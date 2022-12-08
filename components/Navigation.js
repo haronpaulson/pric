@@ -19,9 +19,9 @@ function Navigation() {
                 
    
             </div></Link>
-            <div className="text-xs space-x-1 flex  md:space-x-8 md:text-sm lg:text-2xl">
-                <Link href="/Books"><p1 className="flex  rounded-full "><TbBooks className="mt-1 mr-1"/>Books</p1></Link>
-                <Link href="/About"><p2 className="flex"><BsPersonFill className="mr-1 mt-1"/>About</p2></Link>
+            <div className="text-sm space-x-2  flex  md:space-x-8 md:text-lg lg:text-2xl  ">
+                <Link href="/Books"><p1 className="flex under  rounded-full "><TbBooks className="mt-1 mr-1"/>Books</p1></Link>
+                <Link href="/About"><p2 className="flex under"><BsPersonFill className="mr-1 mt-1"/>About</p2></Link>
             </div>
             <div className="hidden md:inline-flex items-center space-x-2 lg:space-x-3">
                 

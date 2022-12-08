@@ -14,7 +14,7 @@ function About() {
         <div >
             <div className='mb-5  shadow-md  shadow-orange-200 p-4 w-52 ml-[20%] md:ml-[38%] rounded-full'>
                 <Image src="author-web/author1.jpeg" alt='auth' width="180" height="55" objectFit='contain' className=" rounded-full hidden" />
-                <img src= {prefix + "/author1.jpeg"} alt="autho" className='w-40  rounded-full object-contain '/>
+                <img src= "/author1.jpeg" alt="autho" className='w-40  rounded-full object-contain '/>
             
                
             </div>

@@ -36,7 +36,7 @@ function Content() {
             <a href="https://www.amazon.in/gp/product/B0B68YVLGJ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i3"><Image src="/book4.jpeg" alt="bookimage" width='90' height='50' objectFit='contain' className='lg:w-[150px]'/></a>
             <h1 className='font-bold mt-1 font-serif text-2xl text-white pl-3 decoration-clone md:text-3xl'>Read to succeed</h1>
         </div>
-        <div className='  md:ml-10 mr-0 pr-0 mt-10 md:inline-flex xl:ml-3'>
+        <div className='  md:ml-10  mt-10 md:inline-flex xl:ml-3'>
             <div className=' hidden  pt-44 text-center'>
                 
                 <input type='text' placeholder="E-mail" className="w-48 h-8 rounded-sm p-2 border-2 bg-slate-300 " ></input>
@@ -47,7 +47,7 @@ function Content() {
                 <Image src="/author-web/author1.jpeg" alt="author" width="130" height="80" className=' rounded-full hidden '/>
                 <img src="author1.jpeg" className='w-28 pr-0 object-contain rounded-full' alt='authh' /> 
                 <h1 className=' font-extrabold text-white pr-5'>JYOTINDRA NATH PRASAD's <br/>Collection</h1>
-                <p1><span className='text-sm text-orange-300 pr-6'>12  books</span></p1>
+                <p1><span className='text-sm text-orange-300 pr-6'>17  books</span></p1>
                 
             </div>
         </div>

@@ -6,6 +6,5 @@ module.exports = {
     path: "",
   },
 
-  basePath: "/author-web",
-  assetPrefix: "/author-web",
+
 };
